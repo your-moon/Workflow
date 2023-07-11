@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"type":"group","id":"026213276f0f7d49","x":-680,"y":-880,"width":2280,"height":3000,"label":"Application"},
+		{"type":"group","id":"43c0c132db7b952c","x":2320,"y":-880,"width":1160,"height":1178,"label":"Extension"},
+		{"type":"file","file":"Unshy/Application/Back-End.md","id":"3ebd183be94e08a8","x":-531,"y":-120,"width":560,"height":600},
+		{"type":"file","file":"Unshy/Application/Tech Stack.md","id":"2cb3a97f9d11fb48","x":294,"y":-840,"width":400,"height":400},
+		{"type":"file","file":"Unshy/Application/Front-End.md","id":"030b8e4449282300","x":920,"y":-120,"width":531,"height":600},
+		{"type":"file","file":"Unshy/Application/UI, UX/UI, UX.md","id":"ee0ce6dc4a004bf7","x":294,"y":-120,"width":400,"height":600},
+		{"type":"file","file":"Unshy/Application/UI, UX/UI Art.md","id":"1e9b3ea026f9c381","x":294,"y":680,"width":400,"height":400},
+		{"type":"file","file":"Unshy/Application/Bolor-Toli Front-End & Back-End Integration.md","id":"94dc26479f30a467","x":-451,"y":680,"width":400,"height":400},
+		{"type":"file","file":"Unshy/Application/Bolor-Toli Front-End & Back-End Integration.md","id":"5bf04adfa043a0b1","x":986,"y":680,"width":400,"height":400},
+		{"type":"file","file":"Unshy/Application/UI, UX/UI Icons.md","id":"39de7ea3b8403f47","x":294,"y":1280,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"ba14071f493aff52","fromNode":"2cb3a97f9d11fb48","fromSide":"left","toNode":"3ebd183be94e08a8","toSide":"top"},
+		{"id":"067ada70bc3eaf56","fromNode":"2cb3a97f9d11fb48","fromSide":"right","toNode":"030b8e4449282300","toSide":"top"},
+		{"id":"6beacce450f9c4cf","fromNode":"2cb3a97f9d11fb48","fromSide":"bottom","toNode":"ee0ce6dc4a004bf7","toSide":"top"},
+		{"id":"f161f81ff70fff01","fromNode":"ee0ce6dc4a004bf7","fromSide":"bottom","toNode":"1e9b3ea026f9c381","toSide":"top"},
+		{"id":"171f2e5a98d2e91c","fromNode":"3ebd183be94e08a8","fromSide":"bottom","toNode":"94dc26479f30a467","toSide":"top"},
+		{"id":"08d33a77dc279a1d","fromNode":"030b8e4449282300","fromSide":"bottom","toNode":"5bf04adfa043a0b1","toSide":"top"},
+		{"id":"251ff643fb1fe273","fromNode":"1e9b3ea026f9c381","fromSide":"bottom","toNode":"39de7ea3b8403f47","toSide":"top"}
+	]
+}
