@@ -1,14 +1,15 @@
 Todo:
-User
+###### User
 - [ ] Login
 - [ ] Register
 - [ ] Log out
-Word
+
+###### Word
 - [ ] Word Log CRUD
 - [ ] Word Test
 - [ ] Word Translation
 
-Book
+###### Book
 - [ ] Saved Page
 - [ ] Search Books
 - [ ] Book CRUD
